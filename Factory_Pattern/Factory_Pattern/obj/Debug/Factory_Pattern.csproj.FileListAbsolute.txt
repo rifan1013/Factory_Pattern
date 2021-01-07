@@ -1,0 +1,6 @@
+c:\users\ri_fan\documents\visual studio 2015\Projects\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.exe.config
+c:\users\ri_fan\documents\visual studio 2015\Projects\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.csprojResolveAssemblyReference.cache
+C:\Users\RI_FAN\Documents\Visual Studio 2015\Projects\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.exe
+C:\Users\RI_FAN\Documents\Visual Studio 2015\Projects\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.pdb
+C:\Users\RI_FAN\Documents\Visual Studio 2015\Projects\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.exe
+C:\Users\RI_FAN\Documents\Visual Studio 2015\Projects\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.pdb
